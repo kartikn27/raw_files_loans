@@ -1,0 +1,11 @@
+[{"funded_applications": 0, "month": 2, "total_applications": 1},
+ {"funded_applications": 0, "month": 3, "total_applications": 9},
+ {"funded_applications": 0, "month": 4, "total_applications": 28},
+ {"funded_applications": 0, "month": 5, "total_applications": 42},
+ {"funded_applications": 1, "month": 6, "total_applications": 2},
+ {"funded_applications": 2, "month": 7, "total_applications": 3},
+ {"funded_applications": 14, "month": 8, "total_applications": 14},
+ {"funded_applications": 112, "month": 9, "total_applications": 112},
+ {"funded_applications": 149, "month": 10, "total_applications": 150},
+ {"funded_applications": 79, "month": 11, "total_applications": 230},
+ {"funded_applications": 56, "month": 12, "total_applications": 280}]
