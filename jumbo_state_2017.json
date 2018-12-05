@@ -1,0 +1,13 @@
+[{"funded_applications": 0, "state": "AZ", "total_applications": 1},
+ {"funded_applications": 2, "state": "CA", "total_applications": 105},
+ {"funded_applications": 0, "state": "CO", "total_applications": 3},
+ {"funded_applications": 1, "state": "CT", "total_applications": 10},
+ {"funded_applications": 0, "state": "DC", "total_applications": 2},
+ {"funded_applications": 0, "state": "FL", "total_applications": 6},
+ {"funded_applications": 0, "state": "GA", "total_applications": 6},
+ {"funded_applications": 0, "state": "IL", "total_applications": 2},
+ {"funded_applications": 0, "state": "NJ", "total_applications": 6},
+ {"funded_applications": 1, "state": "NC", "total_applications": 10},
+ {"funded_applications": 0, "state": "OR", "total_applications": 2},
+ {"funded_applications": 1, "state": "PA", "total_applications": 11},
+ {"funded_applications": 1, "state": "WA", "total_applications": 16}]
